@@ -1,5 +1,4 @@
-# TheDSALog
-Daily DSA problem-solving journey documenting solutions, approaches, and time &amp; space complexity to improve problem-solving skills and coding efficiency.
+
 # TheDSALog 🚀
 
 My daily journey of solving Data Structures and Algorithms (DSA) problems, improving problem-solving skills, and mastering efficient coding techniques.
